@@ -1,6 +1,6 @@
 Owen Nguyen https://a1-owennguyen.onrender.com/
 
-This project shows ...
+This project shows my personal information, including class, school, major, previous CS courses, Experience, and personal links.
 
 ## Technical Achievements
 - **Styled page with CSS**: Added rules for the body, h1, h2, footer, footer p, @media footer p, a, and img selectors:
@@ -30,7 +30,7 @@ This project shows ...
     - `<footer>`: Contains the above anchor tags at the bottom of the page.
     - `<img>`: Image of the color palette used in this site.
     - `<abbr>`: Abbreviates BS/MS by showing "Bachelor of Science & Master of Science 4 Year Combined Program" on hover.
-    - `<nav>`: Wraps the footer; the navigation section of the webpage including links for Github, LinkedIn, WPI, and Home.
+    - `<nav>`: Wrapped in the footer; the navigation section of the webpage including links for Github, LinkedIn, WPI, and Home.
 
 ## Design Achievements
 - **Used this color palette:** I used this color palette created at color.adobe.com as colors for my site.
