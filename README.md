@@ -1,5 +1,4 @@
-Owen Nguyen
-[Render link to website](https://a1-owennguyen.onrender.com/)
+Owen Nguyen https://a1-owennguyen.onrender.com/
 
 This project shows ...
 
