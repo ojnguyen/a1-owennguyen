@@ -23,14 +23,14 @@ This project shows ...
 - **Added a simple javascript animation**:
     - Was difficult to figure out the logic to animate the color.
         - Learned hex color, sine logic, and animation information from: https://krazydad.com/tutorials/makecolors.php and https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame.
-    - The <h1> background color shifts (using a sine wave) slightly between blue hues using a `requestAnimationFrame` loop.
+    - The `<h1>` background color shifts (using a sine wave) slightly between blue hues using a `requestAnimationFrame` loop.
     - The first 4 hex digits stay the same, while the last 2 (the blue portion) oscilate via `Math.round(130 + Math.sin(t) * 20)`.
 - **Used other semantic HTML tags**:
-    - <a>: Links to my Github, LinkedIn, WPI, and Home (just scrolls to the top).
-    - <footer>: Contains the above anchor tags at the bottom of the page.
-    - <img>: Image of the color palette used in this site.
-    - <abbr>: Abbreviates BS/MS by showing "Bachelor of Science & Master of Science 4 Year Combined Program" on hover.
-    - <nav>: Wraps the footer; the navigation section of the webpage including links for Github, LinkedIn, WPI, and Home.
+    - `<a>`: Links to my Github, LinkedIn, WPI, and Home (just scrolls to the top).
+    - `<footer>`: Contains the above anchor tags at the bottom of the page.
+    - `<img>`: Image of the color palette used in this site.
+    - `<abbr>`: Abbreviates BS/MS by showing "Bachelor of Science & Master of Science 4 Year Combined Program" on hover.
+    - `<nav>`: Wraps the footer; the navigation section of the webpage including links for Github, LinkedIn, WPI, and Home.
 
 ## Design Achievements
 - **Used this color palette:** I used this color palette created at color.adobe.com as colors for my site.
