@@ -13,9 +13,9 @@ This project shows ...
     - `footer`
         - Gives a border around footer.
     - `footer p`
-        - Relating to the p child of footer; Starting in small screen veiwing like the textbook described, position the elements in a column (and center it horizontally).
+        - Relating to the p descendant of footer; Starting in small screen veiwing like the textbook described, position the elements in a column (and center it horizontally).
     - `@media footer p`
-        - Relating to the p child of footer; For screens 600px and up, position the elements in a row (and center it horizontally).
+        - Relating to the p descendant of footer; For screens 600px and up, position the elements in a row (and center it horizontally).
     - `a`
         - Sets the color and removes underline.
     - `img`
